@@ -1,25 +1,62 @@
-# Lab-3-Railway-Reservation
+# Exp - 3 RAILWAY MANAGEMENT SYSTEM
+## NAME : Niraunjana Gayathri G R
+## REGISTRATION NUMBER : 212222230096
 
-### AIM:
-To develop the Railway Reservation System using Star UML tool.
-### PROBLEM STATEMENT:
-1. An E-Ticket (Electronic ticket) is a paperless electronic document used for ticketing
-passengers, particularly in the commercial airline, railway industries.
-2. An E-Ticket offers many advantages for both travelers and airline including security,
-flexibility and cost convenience. At the same time, it also provides the standard assurance of
-the traditional paper ticket, scaling choice, travel time options and other flexibilities.
-3. Passengers typically print out copies of their E-Ticket including confirmation E-mail
-and other document. All those documents can be replaced by pulling them out of the computer
-again and only a person with proper identification can actually use an E-Ticket.
-4. E-Ticket passengers can receive everything from gate assignments to cancellation or
-delay through E-mail, text messages sent to their home or business computers or to their cell
-phones.
-5. Finally, using E-Ticket is a more environmental friendly approach. The main purpose
-of the online bus ticket system is to provide another way for transnational customers to buy
-their tickets.
-### UML DIAGRAMS:
+## AIM:
+
+To study the problem statement ,SRS,Document and draw all the UML diagrams of "RAILWAY RESERVATION SYSTEM".
+
+## SRS (Procedure):
+
+1.In use case diagram it consists of Actors, use cases, Association.
+2.Activity diagram it consists action, Initial and final, Control flow.
+3.Identify actors and usecases from the system.
+4.Define the classes and relationships in the system.
+5.Illustrate the flow of actions for a specific task.
+6.Model interactions between objects for a process.
+DIAGRAMS:
+1.Use Case Diagram
+2.Class Diagram
+3. Package Diagram
+4.Sequence Diagram
+5.Activity Diagram
+6.Communication Diagram
+
+## USE CASE DIAGRAM
+
+![image](https://github.com/user-attachments/assets/86fbf33b-af05-4e84-bfbe-638e17fc5c2b)
+
+
+## CLASS DIAGRAM
+
+![image](https://github.com/user-attachments/assets/3d5cb3d1-e2bb-44e3-80ed-650a93ade471)
+
+
+## PACKAGE DIAGRAM
+
+
+![image](https://github.com/user-attachments/assets/0318ad6f-d136-47c6-8152-c8a0062bade2)
+
+
+## SEQUENCE DIAGRAM
+
+![image](https://github.com/user-attachments/assets/53debab1-f11a-42ea-829d-166532f2718d)
 
 
 
-### RESULT:
-Thus the project to develop e-ticketing system was developed using Star UML Software.
+## ACTIVITY DIAGRAM
+
+![image](https://github.com/user-attachments/assets/f57487a4-1730-4a8e-98c6-adb84de9b5d0)
+
+
+
+## COMMUNICATION DIAGRAM
+
+![image](https://github.com/user-attachments/assets/ddbc2b6b-7299-4b29-8897-74fa20c6b0b7)
+
+
+## RESULT:
+
+Thus the "RAILWAY RESERVATION SYSTEM" project created , executed and the output was verified.
+
+
